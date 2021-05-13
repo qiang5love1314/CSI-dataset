@@ -6,4 +6,4 @@ Area One: It is a 13.5×11m2 computer laboratory with tables, chairs and obstacl
 
 Area Two: It is a 7×10m2 meeting room and almost empty, which can be considered as a LOS scenario. And there are 176 sampling locations.
 
-We also upload the layout of two scenarios. And the file "coordinate 715" means position coordinate is [7, 15].
+We also upload the layout of two scenarios. And the file "coordinate 715" means position coordinate is [7, 15] as well as other files.
