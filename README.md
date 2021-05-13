@@ -5,3 +5,5 @@ Here are the channel state information (CSI) dataset which could be utilized for
 Area One: It is a 13.5×11m2 computer laboratory with tables, chairs and obstacles, which can be considered as a NLOS scenario. And there are 317 sampling locations.
 
 Area Two: It is a 7×10m2 meeting room and almost empty, which can be considered as a LOS scenario. And there are 176 sampling locations.
+
+We also upload the layout of two scenarios. And the file "coordinate 715" means position coordinate is [7, 15].
