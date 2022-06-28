@@ -9,3 +9,15 @@ Area Two: It is a 7×10m2 meeting room and almost empty, which can be considered
 We also upload the layout of two scenarios. And the file "coordinate 715" means position coordinate is [7, 15] as well as other files.
 
 Area Three and Four are the new collection datasat for the conference room and the miniLab, respectively.
+
+
+If you use this work for your research, you may want to cite
+
+```@article{zhu2021bls,
+  title={BLS-location: A wireless fingerprint localization algorithm based on broad learning},
+  author={Zhu, Xiaoqiang and Qiu, Tie and Qu, Wenyu and Zhou, Xiaobo and Atiquzzaman, Mohammed and Wu, Dapeng},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2021},
+  pages={1--14},
+  publisher={IEEE}}
+```
