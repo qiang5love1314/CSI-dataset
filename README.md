@@ -13,11 +13,14 @@ Area Three and Four are the new collection datasat for the conference room and t
 
 If you use this work for your research, you may want to cite
 
-```@article{zhu2021bls,
-  title={BLS-location: A wireless fingerprint localization algorithm based on broad learning},
+```
+@article{zhu2021bls,
+  title={{BLS-Location: A Wireless Fingerprint Localization Algorithm Based on Broad Learning}},
   author={Zhu, Xiaoqiang and Qiu, Tie and Qu, Wenyu and Zhou, Xiaobo and Atiquzzaman, Mohammed and Wu, Dapeng},
   journal={IEEE Transactions on Mobile Computing},
-  year={2021},
-  pages={1--14},
-  publisher={IEEE}}
+  volume={22},
+  number={1},
+  pages={115--128},
+  year={2023}
+}
 ```
