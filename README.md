@@ -10,6 +10,8 @@ We also upload the layout of two scenarios. And the file "coordinate 715" means 
 
 Area Three and Four are the new collection datasat for the conference room and the miniLab, respectively.
 
+## Update
+2023.11.24, I uploaded the imaginary part data of CSI in the lab and meeting room, you can find them in the corresponding folder. 
 
 If you use this work for your research, you may want to cite
 
